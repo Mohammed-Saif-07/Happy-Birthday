@@ -12,7 +12,7 @@ This is a fun, animated birthday greeting website built with **HTML**, **CSS**, 
 
 ## 🚀 Live Demo
 
-
+https://mohammed-saif-07.github.io/Happy-Birthday/
 
 ## 📂 Technologies Used
 
